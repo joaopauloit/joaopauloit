@@ -2,17 +2,17 @@
 
 <p align="left"> 
   Olá, me chamo João Paulo e trabalho com TI desde 2005.<br>
-  Iniciei minha jornada com suporte técnico em microcomputador e rede, e, desde 2007 na área de desenvolvimento software.
-  Sou apaixonado por tudo que envolve software, QA (TDD), automação (CI/CD), processos (SCRUM, DevOps e etc), código limpo, padrões de arquitetura em projetos, banco de dados e etc.
-  Devido a essa paixão acabei me tornando generalista em diversos assuntos, processos de desenvolvimento, QA, Back-End, Front-End, DevOps, Banco de Dados (Relacional e NoSql) e etc.
+  Iniciei minha jornada com suporte técnico em microcomputador e rede, e, desde 2007 na área de desenvolvimento software.<br>
+  Sou apaixonado por tudo que envolve software, QA (TDD), automação (CI/CD), processos (SCRUM, DevOps e etc), código limpo, padrões de arquitetura em projetos, banco de dados e etc.<br>
+  Devido a essa paixão acabei me tornando generalista em diversos assuntos, processos de desenvolvimento, QA, Back-End, Front-End, DevOps, Banco de Dados (Relacional e NoSql) e etc.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **JavaScript, C#, PHP, Java, C++ e T-SQL.**
+  🦄 <b>Linguagens:</b> JavaScript, C#, PHP, Java, C++ e T-SQL.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCode, Visual Studio, Azure Data Studio e SQL Management Studio.**
+  💼 <b>Ferramentas:</b> **VSCode, Visual Studio, Azure Data Studio e SQL Management Studio.**
 </p>
 
 <p align="left">
