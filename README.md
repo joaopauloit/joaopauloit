@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 <b>Ferramentas:</b> **VSCode, Visual Studio, Azure Data Studio e SQL Management Studio.**
+  💼 <b>Ferramentas:</b> VSCode, Visual Studio, Azure Data Studio e SQL Management Studio.
 </p>
 
 <p align="left">
