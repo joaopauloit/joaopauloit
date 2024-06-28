@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-rezende-da-silva-428b5651/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
+  &bnsp;
   <a href="https://joaopaulors.wordpress.com/" title="WordPress">
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white&link=LINK-DO-SEU-WORDPRESS" alt="WordPress"/>
   </a>  
