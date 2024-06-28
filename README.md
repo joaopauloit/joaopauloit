@@ -21,6 +21,6 @@
   </a>
   &nbsp
   <a href="https://joaopaulors.wordpress.com/" title="WordPress">
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white&link=LINK-DO-SEU-WORDPRESS" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white&link=LINK-DO-SEU-WORDPRESS"/>
   </a>  
 </p>
