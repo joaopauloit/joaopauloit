@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
   <a href="https://joaopaulors.wordpress.com/" title="WordPress">
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&link=LINK-DO-SEU-WORDPRESS" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&link=LINK-DO-SEU-WORDPRESS" alt="WordPress" style="max-width: 100%;"/>
   </a>  
 </p>
